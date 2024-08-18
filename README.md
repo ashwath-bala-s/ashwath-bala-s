@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwath-bala-s&label=Profile%20views&color=0e75b6&style=flat" alt="ashwath-bala-s" /> </p>
 
-- 🔭 I’m currently working as Data Analyst **Korcomptenz**
+- 🔭 I’m currently working as Data Analyst at **Korcomptenz**
 
 - 🌱 I’m currently learning **Data Science**
 
