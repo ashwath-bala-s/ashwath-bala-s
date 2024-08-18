@@ -1,4 +1,3 @@
-[![MasterHead](https://pimwp.s3-accelerate.amazonaws.com/2022/01/https___specials-images.forbesimg.com_imageserve_615a844b0e678d9d11c5fc26_0x0-1.jpg)
 <h1 align="center">Hi 👋, I'm Ashwath Bala S</h1>
 <h3 align="center">A Data Analyst pursuing a Data Science Immersive Bootcamp with Analytics Vidhya </h3>
 
