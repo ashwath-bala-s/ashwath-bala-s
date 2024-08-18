@@ -1,7 +1,6 @@
 [![MasterHead](https://pimwp.s3-accelerate.amazonaws.com/2022/01/https___specials-images.forbesimg.com_imageserve_615a844b0e678d9d11c5fc26_0x0-1.jpg)
 <h1 align="center">Hi 👋, I'm Ashwath Bala S</h1>
 <h3 align="center">A Data Analyst pursuing a Data Science Immersive Bootcamp with Analytics Vidhya </h3>
-(img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/9022929-Data-science/attachments/1145015?mode=media](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw04vQkS469Pq7eTfud8p1KC&ust=1724050492358000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwieuNLa-v2HAxVE2zgGHQRrCJQQjRx6BAgAEBc)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwath-bala-s&label=Profile%20views&color=0e75b6&style=flat" alt="ashwath-bala-s" /> </p>
 
